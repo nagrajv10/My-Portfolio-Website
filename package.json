@@ -2,7 +2,7 @@
   "private": true,
   "name": "nagrajPortfolio",
   "version": "0.1.0",
-  "homepage": "https://nagrajv10.github.io/Porfolio-Website",
+  "homepage": "https://nagrajv10.github.io/My-Portfolio-Website",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
