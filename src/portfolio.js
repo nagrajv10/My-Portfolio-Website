@@ -20,21 +20,21 @@ const seo = {
 const greeting = {
   title: "Nagraj Vallakati",
   logo_name: "NagrajVallakati",
-  nickname: "Data Science Enthusiast | Full Stack Developer",
+  nickname: "Data Scientist | AI Engineer",
   subTitle:
     "A driven developer who thrives on building full-stack solutions that create meaningful impact through scalable and innovative technology.",
   resumeLink: "",
   // "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "",
+  portfolio_repository: "https://github.com/nagrajv10/My-Portfolio-Website",
   // "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "",
-  // "https://github.com/ashutosh1919",
+  githubProfile: "https://github.com/nagrajv10",
+  // "https://github.com/nagrajv10",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/nagrajv1011",
+    link: "https://github.com/nagrajv10",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -372,7 +372,7 @@ const degrees = {
       subtitle: "M.S. in Data Science",
       logo_path: "uh_red.png",
       alt_name: "University of Houston",
-      duration: "2025 - Present",
+      duration: "2025 - 2026",
       descriptions: [
         "⚡ I have completed a variety of courses related to Data Science, Machine Learning, and Artificial Intelligence, gaining a strong foundation in data analysis, predictive modeling, and intelligent systems.",
         "⚡ I have applied this knowledge through hands-on projects, working with real-world datasets and implementing ML/AI models to solve practical problems.",
