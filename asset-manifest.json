@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-Website/static/css/main.36731d94.chunk.css",
-    "main.js": "/My-Portfolio-Website/static/js/main.e32cd87d.chunk.js",
-    "main.js.map": "/My-Portfolio-Website/static/js/main.e32cd87d.chunk.js.map",
+    "main.css": "/My-Portfolio-Website/static/css/main.a2b147db.chunk.css",
+    "main.js": "/My-Portfolio-Website/static/js/main.edc47fc4.chunk.js",
+    "main.js.map": "/My-Portfolio-Website/static/js/main.edc47fc4.chunk.js.map",
     "runtime-main.js": "/My-Portfolio-Website/static/js/runtime-main.4ee94f57.js",
     "runtime-main.js.map": "/My-Portfolio-Website/static/js/runtime-main.4ee94f57.js.map",
     "static/js/2.3ae77d07.chunk.js": "/My-Portfolio-Website/static/js/2.3ae77d07.chunk.js",
     "static/js/2.3ae77d07.chunk.js.map": "/My-Portfolio-Website/static/js/2.3ae77d07.chunk.js.map",
     "index.html": "/My-Portfolio-Website/index.html",
-    "precache-manifest.0d42c3734b9e61c6b3f9b91a02fefd68.js": "/My-Portfolio-Website/precache-manifest.0d42c3734b9e61c6b3f9b91a02fefd68.js",
+    "precache-manifest.045b9f64d635801b93d789a1a7c3fd9c.js": "/My-Portfolio-Website/precache-manifest.045b9f64d635801b93d789a1a7c3fd9c.js",
     "service-worker.js": "/My-Portfolio-Website/service-worker.js",
-    "static/css/main.36731d94.chunk.css.map": "/My-Portfolio-Website/static/css/main.36731d94.chunk.css.map",
+    "static/css/main.a2b147db.chunk.css.map": "/My-Portfolio-Website/static/css/main.a2b147db.chunk.css.map",
     "static/media/index.css": "/My-Portfolio-Website/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Coursera-Logo.png": "/My-Portfolio-Website/static/media/Coursera-Logo.c6fc67b3.png",
     "static/media/address_image.svg": "/My-Portfolio-Website/static/media/address_image.16559172.svg",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ee94f57.js",
     "static/js/2.3ae77d07.chunk.js",
-    "static/css/main.36731d94.chunk.css",
-    "static/js/main.e32cd87d.chunk.js"
+    "static/css/main.a2b147db.chunk.css",
+    "static/js/main.edc47fc4.chunk.js"
   ]
 }
